@@ -11,4 +11,4 @@ SinglePixLine 是一个帮助iOS开发者在iPhone上绘制出1px的横线。
 ==============
 查看并运行 `SinglePixLineDemo/SinglePixLineDemo.xcodeproj`
 
-<img src="https://github.com/leihaoyu/SinglePixLine/master/Snapshots/Snapshot.png" width="320"><br/>
+<img src="https://github.com/leihaoyu/SinglePixLine/blob/master/Snapshots/Snapshot.png" width="320"><br/>
