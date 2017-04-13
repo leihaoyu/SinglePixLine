@@ -22,7 +22,7 @@ Run `SinglePixLineDemo/SinglePixLineDemo.xcodeproj`
 
 - setting line color
 
-<img src="https://github.com/leihaoyu/SinglePixLine/blob/master/howtouse.png" width="320"><br/>
+<img src="https://github.com/leihaoyu/SinglePixLine/blob/master/Snapshots/howtouse.png" width="320"><br/>
 
 
 
